@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aiadam36</h1>
-<h3 align="center">having a good life !</h3>
+<h3 align="center">Have a good life!</h3>
 
 - 💬 You can ask me anything about **Google, Internet, Computer, Programming, Coding, Android, Minecraft Java, Minecraft Pocket & Bedrock, Roblox, Pojavlauncher, MCinaBox.**
 
