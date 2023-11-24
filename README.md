@@ -10,7 +10,11 @@
 <a href="https://github.com/aiadam36" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aiadam36/aiadam36/main/icons/css-icon.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://github.com/aiadam36" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aiadam36/aiadam36/main/icons/javascript-programming-language-icon.svg" alt="js" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tools:</h3>
+<p align="left">
+<a href="https://github.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/aiadam36/aiadam36/main/icons/github-icon.svg" alt="GitHub" height="30" width="40" /> </a>
+</p>
+<h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://tiktok.com/@aiadam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/aiadam36/aiadam36/main/icons/tiktok-app-icon.svg" alt="TikTok" height="30" width="40" /> </a>
 <a href="https://discord.com/invite/EDGxEHFZQh" target="blank"><img align="center" src="https://raw.githubusercontent.com/aiadam36/aiadam36/main/icons/discord-round-color-icon.svg" alt="Discord" height="30" width="40" /> </a>
