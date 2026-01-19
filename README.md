@@ -1,16 +1,22 @@
-## Hi there 👋
+# Adam Iskandar 👋
 
-<!--
-**aiadam36/aiadam36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer · Security-focused systems  
+I build fast, boring, secure things that last.
 
-Here are some ideas to get you started:
+## About
+I focus on how systems behave over time: predictable designs, auditable decisions, and fewer surprises. I started with web security and vulnerability research but prefer preventing problems by building simple, maintainable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+- Web platforms with hardened backends  
+- Self-hosted, low-cost infrastructure where it makes sense  
+- Security-aware tooling and practical reviews
+
+## Skills
+JavaScript · Node.js · Linux · Security reviews · Infrastructure-as-code
+
+## How I work
+Small scope, long-term thinking, fewer dependencies, privacy-first by default. I favour clarity and predictability over chasing trends.
+
+---
+
+*Likes coffee and the long game.*
