@@ -9,13 +9,13 @@
 ---
 
 #### Skills 🚀
-![Skills](https://skillicons.dev/icons?i=html,css,js)
+![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,discordjs)
 
 #### Tools ⚙
-![Tools](https://skillicons.dev/icons?i=git,vscode)
+![Tools](https://skillicons.dev/icons?i=git,vscode,bash)
 
 #### Services 🧰
-![Services](https://skillicons.dev/icons?i=cloudflare)
+![Services](https://skillicons.dev/icons?i=cloudflare,mongodb)
 
 ---
 
