@@ -9,11 +9,15 @@
 ---
 
 #### Skills 🚀
+![Skills](https://skillicons.dev/icons?i=html,css,js)
 
 #### Tools ⚙
+![Tools](https://skillicons.dev/icons?i=git,vscode)
 
 #### Services 🧰
+![Services](https://skillicons.dev/icons?i=cloudflare)
 
 ---
 
 ### Note:
+Consider checking my website!
