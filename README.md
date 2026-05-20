@@ -29,7 +29,7 @@
   </td>
   
   <td align="center" valign="top">
-    <h4>Cloud</h4>
+    <h4>DevOps / Cloud</h4>
     <img src="https://skillicons.dev/icons?i=git"><br>Git<br>
     <img src="https://skillicons.dev/icons?i=linux"><br>Linux<br>
   </td>
