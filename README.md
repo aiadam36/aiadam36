@@ -13,7 +13,6 @@
   
   <td align="center" valign="top">
     <h4>Frontend</h4>
-    
     <img src="https://skillicons.dev/icons?i=html"><br>HTML<br>
     <img src="https://skillicons.dev/icons?i=css"><br>CSS<br>
     <img src="https://skillicons.dev/icons?i=js"><br>JavaScript<br>
@@ -21,19 +20,16 @@
   
   <td align="center" valign="top">
     <h4>Backend</h4>
-    
     <img src="https://skillicons.dev/icons?i=nodejs"><br>Node.js<br>
   </td>
   
   <td align="center" valign="top">
     <h4>Databases</h4>
-    
     <img src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB<br>
   </td>
   
   <td align="center" valign="top">
     <h4>Cloud</h4>
-    
     <img src="https://skillicons.dev/icons?i=git"><br>Git<br>
     <img src="https://skillicons.dev/icons?i=linux"><br>Linux<br>
   </td>
