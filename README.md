@@ -12,24 +12,24 @@
 <tr>
   
   <td align="center" valign="top">
-    <h4>Frontend</h4>
+    <h5>Frontend</h5>
     <img src="https://skillicons.dev/icons?i=html"><br>HTML<br>
     <img src="https://skillicons.dev/icons?i=css"><br>CSS<br>
     <img src="https://skillicons.dev/icons?i=js"><br>JavaScript<br>
   </td>
   
   <td align="center" valign="top">
-    <h4>Backend</h4>
+    <h5>Backend</h5>
     <img src="https://skillicons.dev/icons?i=nodejs"><br>Node.js<br>
   </td>
   
   <td align="center" valign="top">
-    <h4>Databases</h4>
+    <h5>Databases</h5>
     <img src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB<br>
   </td>
   
   <td align="center" valign="top">
-    <h4>DevOps / Cloud</h4>
+    <h5>DevOps / Cloud</h5>
     <img src="https://skillicons.dev/icons?i=git"><br>Git<br>
     <img src="https://skillicons.dev/icons?i=linux"><br>Linux<br>
   </td>
