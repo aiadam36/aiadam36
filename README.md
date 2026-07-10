@@ -21,12 +21,12 @@ currently learning: something..
 ---
 
 interested in:
-predictable systems
-cybersecurity
-osint
-automation
-self-hosting
-open source
+- predictable systems
+- cybersecurity
+- osint
+- automation
+- self-hosting
+- open source
 
 ---
 
