@@ -3,6 +3,8 @@ hey, i'm adam! 👋
 
 full-stack webdev & cybersec enthusiast
 
+founder of opalanet.
+
 ---
 
 html, css, javascript, pwa
