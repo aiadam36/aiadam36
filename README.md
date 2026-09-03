@@ -3,7 +3,7 @@ hey, i'm adam! 👋
 
 full-stack webdev & cybersec enthusiast
 
-founder of opalanet.
+founder of opalanet and MailYou maintainer.
 
 ---
 
