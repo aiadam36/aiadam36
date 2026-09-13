@@ -1,39 +1,7 @@
-```txt
-hey, i'm adam! 👋
+Hey, I'm Adam! 👋
 
-full-stack webdev & cybersec enthusiast
+Full-stack developer & cybersecurity enthusiast.
 
-founder of Opala Network and MailYou sole maintainer
+Currently maintaining MailYou.
 
----
-
-html, css, javascript, pwa
-node.js, express, socket.io, rest api, python
-mongodb, supabase
-git, ci/cd
-linux, shell
-jekyll, hugo
-cloudflare, vercel, render, netlify
-discord.js
-
----
-
-currently learning: something..
-
----
-
-interested in:
-- predictable systems
-- cybersecurity
-- osint
-- automation
-- self-hosting
-- open source
-
----
-
-open for collaboration on web projects, security tools,
-or interesting open source stuff.
-
-feel free to reach out!
-```
+I like building simple, useful things.
