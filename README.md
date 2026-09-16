@@ -1,7 +1,5 @@
-Hey, I'm Adam! 👋
+```python
+name = "Adam"
 
-Full-stack developer & cybersecurity enthusiast.
-
-Currently maintaining MailYou.
-
-I like building simple, useful things.
+print(f"Hello! I'm {name}")
+```
