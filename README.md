@@ -1,5 +1,5 @@
 I like instant noodles..
 
-most of my repos whether it's a low-effort vibecoded one, it could be some real thing that I deeply interested in and put a lot of effort to
+most of my repos, whether they're low-effort vibecoded ones or something I'm genuinely interested in and put a lot of effort into
 
-if you like some tech niche, consider checking my blog at [blog.adamiskandar.com](https://blog.adamiskandar.com)
+if you're into some tech niche, consider checking my blog at [blog.adamiskandar.com](https://blog.adamiskandar.com)
