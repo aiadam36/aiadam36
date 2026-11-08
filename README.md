@@ -1,4 +1,4 @@
-I like instant noodles..
+I like *air vanilla blue* at bazaar Ramadan (only Malaysians can relate)
 
 most of my repos, whether they're low-effort vibecoded ones or something I'm genuinely interested in and put a lot of effort into
 
