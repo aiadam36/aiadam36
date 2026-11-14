@@ -1,4 +1,4 @@
-my social media is nostr, mostly hang out there
+my social media is **nostr**, mostly hang out there
 
 my repos, whether they're low-effort vibecoded ones or something I'm genuinely interested in and put a lot of effort into
 
